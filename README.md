@@ -1,7 +1,16 @@
 # Design-Patterns-TicTacToe-Game
-Memento, Decorator, Adapter, Singleton and Command Design Patterns in one System
 
+TicTacToe Game, Includes all the following Design Patterns:
+- Memento
+- Decorator
+- Adapter
+- Singleton 
+- Command
 
+Technologies:
+- Java Programming language 
+- Eclipse IDE
+- JavaFX
 
 
 
