@@ -12,10 +12,6 @@ Technologies:
 - Eclipse IDE
 - JavaFX
 
-
-
-
-
 ![](https://github.com/LazarofShalev/Design-Patterns-TicTacToe-Game/blob/master/ScreenShots/1.png)
 
 ![](https://github.com/LazarofShalev/Design-Patterns-TicTacToe-Game/blob/master/ScreenShots/2.png)
