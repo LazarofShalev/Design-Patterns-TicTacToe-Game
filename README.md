@@ -1,6 +1,6 @@
 # Design-Patterns-TicTacToe-Game
 
-TicTacToe Game that combines memento, decorator, adapter, singleton, 
+TicTacToe Game that combines memento, decorator, adapter, singleton and 
 command design patterns. 
 
 Technologies:
